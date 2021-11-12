@@ -2,7 +2,7 @@
 cleonard-godaddy/cleonard-godaddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋
+### 👋 My name is Chris, and I'm a database guy. 
 _I'm the principal domains data architect at GoDaddy._<br/>
 _At night I masquerade as @sql-sith._
 
